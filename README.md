@@ -6,6 +6,7 @@
 
 ## **1. Introduction & Core Philosophy**
 
+**The Objective**\
 The objective of this document is to define the core architectural principles governing our embedded software development. These guidelines aim to reduce complexity, mitigate technical and organisational risk, and ensure that our software remains **robust, secure, portable, and maintainable** throughout long product lifecycles.
 
 These principles apply to all embedded software developed within the organisation, independent of target platform, operating system, or project size.
